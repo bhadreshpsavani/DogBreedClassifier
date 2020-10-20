@@ -36,7 +36,6 @@ __NOTE:__ if you are using the Udacity workspace, you *DO NOT* need to re-downlo
 		jupyter notebook dog_app.ipynb
 	```
 
-_
 
 __NOTE:__ In the notebook, you will need to train CNNs in PyTorch.  If your CNN is taking too long to train, feel free to pursue one of the options under the section __Accelerating the Training Process__ below.
 
